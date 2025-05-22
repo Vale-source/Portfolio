@@ -20,6 +20,7 @@ Estoy finalizando una **Tecnicatura en Programación** y continúo formándome e
 
 ### 🔧 Herramientas
 `Git` · `Postman`
+
 ---
 
 ## 🚀 Proyectos destacados
