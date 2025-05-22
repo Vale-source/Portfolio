@@ -18,6 +18,8 @@ Estoy finalizando una **Tecnicatura en Programación** y continúo formándome e
 ### ⚪ En aprendizaje / exploración
 `NestJS` · `Docker (básico)`
 
+### 🔧 Herramientas
+`Git` · `Postman`
 ---
 
 ## 🚀 Proyectos destacados
