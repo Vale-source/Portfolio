@@ -45,5 +45,5 @@ Podés ver más repos en mi GitHub. Muchos fueron parte de mi formación y prác
 ## 📫 Contacto
 
 Si querés charlar o colaborar, podés encontrarme en:  
-📁 [GitHub](https://github.com/Vale-source) · 📧 tuemail@mail.com
+📁 [GitHub](https://github.com/Vale-source) · 📧 vale.source.03@gmail.com
 
