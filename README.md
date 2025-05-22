@@ -42,7 +42,7 @@ Usa **Express** y **MongoDB**, con rutas CRUD simples y estructura modular.
 
 ---
 
-📂 ¿Más proyectos?  
+## 📂 ¿Más proyectos?  
 Podés ver más repos en mi GitHub. Muchos fueron parte de mi formación y práctica constante, aunque no todos los considero destacables todavía.
 
 ## 📫 Contacto
