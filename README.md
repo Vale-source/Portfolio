@@ -10,13 +10,13 @@ Estoy finalizando una **Tecnicatura en Programación** y continúo formándome e
 ## 🛠 Tech Stack
 
 ### 🟢 Tecnologías principales
-`JavaScript` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `MySQL` · `Java (Spring Boot)`
+`JavaScript` · `Node.js` · `Express` · `MongoDB` · `MySQL` · `Java (Spring Boot)`
 
 ### 🟡 Conocimiento intermedio
-`Prisma` · `React` *(entiendo su funcionamiento, aunque prefiero no aplicarlo)* · `PostgreSQL`
+`Prisma` · `React` *(entiendo su funcionamiento, aunque prefiero no aplicarlo)* · `PostgreSQL` · `TypeScript` 
 
 ### ⚪ En aprendizaje / exploración
-`Docker` · `Spring Security` · `Spring Boot en general` · `Kubernetes`
+`Docker` · `Spring Security` · `Spring Boot en general` · `Kubernetes` · `Desarrollo en la nube (AWS)`
 
 ### 🔧 Herramientas
 `Git` · `Postman`
